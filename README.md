@@ -25,6 +25,7 @@
         <li>💎 Proxmox / Virtualization</li>
         <li>🛡️ DNS, DHCP & Group Policy (GPOs)</li>
         <li>💾 Backup, Snapshots & Monitoring</li>
+         <p></p>
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
@@ -38,7 +39,8 @@
 
 <h3>🔧 Featured Project</h3>
 
-📁 **[Enterprise Infrastructure Lab](https://github.com/LucasMontes41/enterprise-infrastructure-lab)**  
+📁 **[Enterprise Infrastructure Lab](https://github.com/LucasMontes41/enterprise-infrastructure-lab)**
+
 A practical enterprise IT environment built with **Proxmox, Windows Server, Active Directory, DNS, DHCP, GPO, SMB/NTFS, Ubuntu Server, and PowerShell**.
 
 <hr>
