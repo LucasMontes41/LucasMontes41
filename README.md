@@ -38,7 +38,7 @@
 
 <h3>🔧 Featured Project</h3>
 
-📁 **[Enterprise Infrastructure Lab](https://github.com)**  
+📁 **[Enterprise Infrastructure Lab](https://github.com/LucasMontes41/enterprise-infrastructure-lab)**  
 A practical enterprise IT environment built with **Proxmox, Windows Server, Active Directory, DNS, DHCP, GPO, SMB/NTFS, Ubuntu Server, and PowerShell**.
 
 <hr>
@@ -57,7 +57,7 @@ A practical enterprise IT environment built with **Proxmox, Windows Server, Acti
    <a href="https://www.linkedin.com/in/lucas-montes-muriana-23406b167/" target="_blank">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
    </a>&nbsp;
-   <a href="lucasmonmu3@gmail.com">
+  <a href="mailto:lucasmonmu3@gmail.com">
       <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
    </a>
 </p>
