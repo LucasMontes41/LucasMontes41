@@ -54,10 +54,10 @@ A practical enterprise IT environment built with **Proxmox, Windows Server, Acti
 <h3 align="center">🤝 Connect with Me</h3> 
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/lucas-montes-muriana-23406b167/" target="_blank">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+   <a href="https://www.linkedin.com/in/lucas-montes-muriana-23406b167/)" target="_blank">
+      <img src="https://shields.io" alt="LinkedIn" />
    </a>&nbsp;
-  <a href="mailto:lucasmonmu3@gmail.com">
-      <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+   <a href="mailto:lucasmonmu3@gmail.com">
+      <img src="https://shields.io" alt="Gmail" />
    </a>
 </p>
